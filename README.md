@@ -1,6 +1,4 @@
 <html xmlns="moturkeyresume.s3-website-us-east-1.amazonaws.com/xhtml">
-<head>
-    <title>My Website Home Page</title>
 </head>
 <body>
   <h1>Welcome to my website</h1>
